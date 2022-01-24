@@ -19,6 +19,7 @@ body
 
 #cabecera #logo
 {
+    height: 20;
     width: 20 px;
     vertical-align: middle;
 }
